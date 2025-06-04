@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Timeless styles for the modern wardrobe.",
+    "content": "<strong>Great fashion evolves with you.</strong> We design collections that adapt with the seasons and stay stylish no matter where life takes you.",
+    "cta": "Shop the latest collection",
+    "image": "/content-images/cloth.jpg",
+    "image_alt": "Modern wardrobe essentials displayed on minimalist racks"
+  },
+  {
+    "title": "Outfits designed to turn heads and drive confidence.",
+    "content": "<strong>Experts in fit, fabric, and fashion-forward design.</strong> From casual wear to statement pieces, we help you feel your best every day.",
+    "cta": "Browse our bestsellers",
+    "image": "/content-images/cloth1.jpg",
+    "image_alt": "Model showcasing trendy outfit in urban setting"
+  },
+  {
+    "title": "Style across every season.",
+    "content": "<strong>From cozy winter layers to breezy summer fits.</strong> Our team crafts every look with premium materials and lasting comfort in mind.",
+    "cta": "Explore seasonal styles",
+    "image": "/content-images/cloth2.jpg",
+    "image_alt": "Seasonal wardrobe collection on display"
+  },
+  {
+    "title": "Fashion for every body and every day.",
+    "content": "<strong>We believe style should be effortless and inclusive.</strong> Discover collections designed to celebrate real people and real lives.",
+    "cta": "Find your perfect fit",
+    "image": "/content-images/cloth3.jpg",
+    "image_alt": "Diverse group of people wearing coordinated outfits"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How secure is my fashion brand data?",
+    "answer": "Your designs and brand files are protected with industry-standard AES-256 encryption. We use secure cloud storage and conduct regular security updates to keep your clothing line’s assets safe."
+  },
+  {
+    "question": "Do you offer a free trial for fashion design services?",
+    "answer": "Yes! Try our platform free for 14 days—no credit card required. You’ll get access to core features like logo creation, garment mockups, and collection mood boards."
+  },
+  {
+    "question": "Can your design tools work with other fashion platforms?",
+    "answer": "Absolutely. Our tools integrate with Figma, Adobe Creative Cloud, Shopify, Webflow, and other platforms commonly used by clothing brands and e-commerce stores."
+  },
+  {
+    "question": "What kind of support do you offer for clothing design projects?",
+    "answer": "We offer 24/7 support via chat and email, plus a help center packed with fashion-specific guides, style template tutorials, and brand-building resources."
+  },
+  {
+    "question": "Can I use your tools offline or without the cloud?",
+    "answer": "Our tools are built for online collaboration, but you can download your designs in popular formats like SVG for logos, PNG for apparel visuals, or OBJ for 3D clothing models."
+  }
+]

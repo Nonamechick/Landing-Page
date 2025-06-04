@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Simple Product Store - MERN Stack",
+    "sector": "Website",
+    "content": "<strong>Lightweight E-Commerce with React 19, Node.js 22 & Vite</strong> <br><br>Simple Product Store - Build for education purpose",
+    "case_study_link": "https://github.com/Nonamechick/Full-Shop",
+    "cta": "Visit project",
+    "image": "https://private-user-images.githubusercontent.com/150536395/439649333-ac484a81-6974-456a-aa3b-d80f00fbb747.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkwMTQ1MjYsIm5iZiI6MTc0OTAxNDIyNiwicGF0aCI6Ii8xNTA1MzYzOTUvNDM5NjQ5MzMzLWFjNDg0YTgxLTY5NzQtNDU2YS1hYTNiLWQ4MGYwMGZiYjc0Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwNFQwNTE3MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNDBmMWY1ZjAxMDg0NmY1YjY1ODkwN2VhMWY2ZWQyNTYwZDNlNTc5YzQxNjgyMTZlMDI3NWJlZjIyN2UzNzgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0IIKqATIetKzrRzywQjxqVpaYN-UNDfvwijzkMXewZg",
+    "image_alt": "iPad showing spike.news website",
+    "bg": "bg-gradient-to-r from-indigo-500 to-purple-600"
+  },
+  {
+    "title": "Satisfy Your Korean Cravings",
+    "sector": "Website",
+    "content": "From spicy tteokbokki to sweet honey butter chips—get your favorite Korean snacks, meals, and drinks delivered straight to your door. Fast, fresh, and full of flavor.",
+    "case_study_link": "https://github.com/Nonamechick/Korean-Cravings",
+    "cta": "Visit project",
+    "image": "https://camo.githubusercontent.com/7a24823b928c878d242f053a784c1dba3164f89a3fee77ab0184e81f69ce8ebe/68747470733a2f2f692e706f7374696d672e63632f54325144324337642f53637265656e73686f742d323032352d30342d32342d3131313535362e706e67",
+    "image_alt": "iPad showing pixelated wave painting",
+    "bg": "bg-gradient-to-r from-fuchsia-500 to-cyan-500"
+  },
+  {
+    "title": "Air Environment Dashboard",
+    "sector": "Website",
+    "content": "A personal dashboard for tracking air quality and weather conditions, built with modern web technologies for optimal performance and usability.",
+    "case_study_link": "https://github.com/Nonamechick/Air",
+    "cta": "Visit Website",
+    "image": "https://camo.githubusercontent.com/b38c162e52a712491985a8a136eeffe649d424dd4ff65d38d18a3aa25f68a5c9/68747470733a2f2f692e706f7374696d672e63632f566b3777646279622f53637265656e73686f742d323032352d30342d32342d3131323233322e706e67",
+    "image_alt": "iPad showing the web page of brighton.dog",
+    "bg": "bg-gradient-to-r from-pink-500 to-yellow-500"
+  }
+]

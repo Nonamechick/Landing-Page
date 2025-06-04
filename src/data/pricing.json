@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Basic Plan",
+    "tag": "Most Popular",
+    "content": "1 fashion designer, 5 days/month",
+    "cta": "Start Free Trial",
+    "price": 999,
+    "services": [
+      { "item": "Access to essential design services" },
+      { "item": "Custom clothing tags & basic logos" },
+      { "item": "Up to 10 product visuals (e.g. t-shirts, accessories)" },
+      { "item": "Chat support via Slack or Teams" },
+      { "item": "Cancel anytime – no contract" }
+    ]
+  },
+  {
+    "title": "Pro Retail Plan",
+    "tag": "Best Value",
+    "content": "Full creative team, 5 days/month",
+    "cta": "Enquire Now",
+    "price": 2999,
+    "services": [
+      { "item": "Everything in Basic Plan" },
+      { "item": "Up to 100 branded assets (lookbooks, banners, etc.)" },
+      { "item": "Advanced sales & style trend reports" },
+      { "item": "Up to 30 high-quality clothing mockups or renders" },
+      { "item": "120GB storage for design assets & lookbooks" }
+    ]
+  }
+]

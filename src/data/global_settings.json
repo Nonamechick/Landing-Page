@@ -1,0 +1,57 @@
+{
+  "title": "astro landing page",
+  "description": "  Astro landing ",
+  "social_image": "/1200x630.jpg",
+  "base_url": "https://astro-theme.blackspike.com",
+  "demo": {
+    "title": "Need design?",
+    "content": "<strong>Get a guided tour through our services</strong>, and find out how you and your team can change the way you work, forever.",
+    "cta": "Book a call"
+  },
+  "theme_color": "#18181b",
+  "nav": [
+    {
+      "title": "Services",
+      "link": "/#services"
+    },
+    {
+      "title": "Case studies",
+      "link": "/#case-studies"
+    },
+    {
+      "title": "Pricing",
+      "link": "/#pricing"
+    },
+    {
+      "title": "FAQ",
+      "link": "/#faq"
+    },
+    {
+      "title": "Newsletter",
+      "link": "/#newsletter"
+    }
+  ],
+
+  "social_links": [
+    {
+      "title": "Twitter / X",
+      "link": "https://youtu.be/9PpNmDgUDH8?si=dH2jLb4hKr5ioS2F"
+    },
+    {
+      "title": "Mastodon",
+      "link": "https://youtu.be/9PpNmDgUDH8?si=dH2jLb4hKr5ioS2F"
+    },
+    {
+      "title": "GitHub",
+      "link": "https://github.com/Nonamechick/"
+    },
+    {
+      "title": "LinkedIn",
+      "link": "https://youtu.be/9PpNmDgUDH8?si=dH2jLb4hKr5ioS2F"
+    },
+    {
+      "title": "Bluesky",
+      "link": "https://youtu.be/9PpNmDgUDH8?si=dH2jLb4hKr5ioS2F"
+    }
+  ]
+}

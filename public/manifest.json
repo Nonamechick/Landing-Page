@@ -1,0 +1,32 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "astro landing page",
+  "description": " Astro landing theme made with Tailwind.",
+  "short_name": "astro theme",
+  "theme_color": "#18181B",
+  "icons": [
+    {
+      "src": "/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
